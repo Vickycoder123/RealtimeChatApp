@@ -15,6 +15,7 @@ import java.util.List;
 @CrossOrigin("http://localhost:5173")
 public class RoomController {
 
+    //checking for applisting
     private RoomRepository roomRepository;
 
 
